@@ -1,0 +1,6 @@
+dao.3.11/
+chroma_db/
+.vscode/
+.DS_Store
+__pycache__
+data/
